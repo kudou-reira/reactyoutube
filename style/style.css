@@ -1,0 +1,43 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+
+.search-bar{
+    margin: 20px;
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px;
+}
+
+.search-bar input{
+    width: 75%;
+}
+
+.video-item img{
+    max-width: 65px
+}
+
+.video-detail .details{
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.list-group-item{
+    cursor: pointer;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.list-group-item:hover{
+    background-color: #eee;
+}
+
+.bold{
+    font-weight: 700;
+}
+
+.bold1{
+    font-weight: 600;
+}

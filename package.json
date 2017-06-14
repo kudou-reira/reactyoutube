@@ -8,8 +8,6 @@
     "start": "node server.js",
     "build": "webpack"
   },
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.2.1",
     "babel-loader": "^6.2.0",
